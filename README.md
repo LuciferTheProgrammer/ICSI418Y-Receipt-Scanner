@@ -1,6 +1,6 @@
 # Receipt Scanner
 
-Applications are contained in the `src` and `server` folders.
+Applications are contained in the src and server folders.
 
 ## Receipt Scanner Web Application
 
